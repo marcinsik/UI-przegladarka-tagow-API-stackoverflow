@@ -28,7 +28,7 @@ Ten projekt został stworzony przy użyciu Reacta z API Stack Exchange do pobier
 ## `npm start`
 
 ## Running StoryBook
-## `npm run storybook`.
+## `npm run storybook`
 
 ## INFO
 This project was created using React with the Stack Exchange API to retrieve and display tag data from Stack Overflow. It uses React, Axios for API requests, Material-UI for UI components and Storybook for component testing.
